@@ -2,71 +2,61 @@
     {
         "id": 1,
         "name": "Camiseta Masculina Básica Manga Curta",
-        "price": 42.49,
         "rating": 4,
         "image": "https://raw.githubusercontent.com/MariiaClara2/TCC/main/camiseta_mangacurta.WEBP?token=GHSAT0AAAAAACC7GU7GUT3KMRMXSJIWRYF2ZDMBWXA"
     },
     {
         "id": 2,
         "name": "kit 6 copos em perfeito estado",
-        "price": 19.99,
         "rating": 5,
         "image": "https://lojasafubra.vtexassets.com/arquivos/ids/166856-800-800?v=637525583476030000&width=800&height=800&aspect=true"
     },
     {
         "id": 3,
         "name": "Bolsa Feminina - Via Uno",
-        "price": 2276.10,
         "rating": 3,
         "image": "https://raw.githubusercontent.com/MariiaClara2/TCC/main/bolsafemi.WEBP?token=GHSAT0AAAAAACC7GU7HZBQPQPKFNRYYYUDEZDMBUJA"
     },
     {
         "id": 4,
-        "name": "Fritadeira Elétrica - Airfryer Ichef Polishop - AllSpace - Exclusive - Preto",
-        "price": 899.96,
-        "rating": 4,
-        "image": "https://raw.githubusercontent.com/Cassianosch/programador.cs-reels/develop/slider-produtos-simples/assets/images/4-1.webp"
+        "name": "Moletom Vinho em perfeito estado",
+        "rating": 2,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_658486-MLB50854095593_072022-O.webp"
     },
     {
         "id": 5,
         "name": "Kit 12 pratos - Rasos e Fundos com alguns esfolados",
-        "price": 1871.10,
         "rating": 4,
         "image": "https://raw.githubusercontent.com/MariiaClara2/TCC/main/pratousado.WEBP?token=GHSAT0AAAAAACC7GU7GXXXLOATGFIIHS3UGZDMBXQQ"
     },
     {
         "id": 6,
         "name": "Tenis Nike vrmelho nº23 - usado poucas vezes",
-        "price": 1028.99,
-        "rating": 4,
+        "rating": 5,
         "image": "https://raw.githubusercontent.com/MariiaClara2/TCC/main/tenisinfantil.WEBP?token=GHSAT0AAAAAACC7GU7H4WPNE47SIXTYTR34ZDMB2CQ"
     },
     {
         "id": 7,
         "name": "Colar Espirito Santo banhado a prata",
-        "price": 149.99,
         "rating": 3,
         "image": "https://raw.githubusercontent.com/MariiaClara2/TCC/main/colarES.webp?token=GHSAT0AAAAAACC7GU7H5EHI6ZV7XX3KKK62ZDMCBBQ"
     },
     {
         "id": 8,
         "name": "Cobertor Solteiro de onça semi-novo",
-        "price": 888.99,
         "rating": 4,
         "image": "https://raw.githubusercontent.com/MariiaClara2/TCC/main/cobertoronca.WEBP?token=GHSAT0AAAAAACC7GU7HLCAOUQBYJXCRDAHGZDMCCAA"
     },
     {
         "id": 9,
         "name": "Cortina p/ cozinha branca",
-        "price": 975.92,
         "rating": 3,
-        "image": "https://raw.githubusercontent.com/MariiaClara2/TCC/main/cortina.WEBP?token=GHSAT0AAAAAACC7GU7G5VRIXIGTVPSMUZRQZDMCDEA"
+        "image": "https://img.olx.com.br/images/16/162392130471724.jpg"
     },
     {
         "id": 10,
         "name": "Panela de pressão 4,5L em perfeito estado ",
-        "price": 77.90,
-        "rating": 3,
+        "rating": 5,
         "image": "https://raw.githubusercontent.com/MariiaClara2/TCC/main/paneladepressao.WEBP?token=GHSAT0AAAAAACC7GU7HWBONGB6VMMDRPX5UZDMCEDA"
     }
 ]
